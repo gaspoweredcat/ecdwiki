@@ -7,7 +7,7 @@ XTC2 clip is used for HTCs 2nd gen and on devices (2013 and on) it works by mimi
   - Insert card into the devices micro SD slot (if there is no micro SD connect to a card reader and Y cable)
   - Boot the device into bootloader by holding Volume down and power
   - Once the phone has scanned the card scroll down and select the "SIMLOCK"option
-  - The device will now scan the card, reboot and scan again to set S-Off and CID to HTC__001
+  - The device will now scan the card, reboot and scan again to set S-Off and CID to Generic European
   - You can now flash the device as needed
   - once you have finished all operations set S-On via fastboot command: //htc_fastboot.exe oem writesecureflag 3//
 \\ 
