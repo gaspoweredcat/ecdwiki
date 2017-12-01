@@ -1,0 +1,19 @@
+====== Sony Xperia Devices ======
+
+===== NOTE WE CANNOT SIM UNLOCK SONY XPERIA DEVICES =====
+[[xperiasim|Details and Exceptions]]
+
+===== Mobile Phones: =====
+
+
+===== Tablets =====
+
+  * [[sonytabz|Tablet Z]]
+  * [[sonytabz2|Tablet Z2]]
+  * [[sonytabz3|Tablet Z3 Compact]]
+  * [[sonytabz4|Tablet Z4]]
+
+===== Watches =====
+
+  * [[sonysw2|Smartwatch 2]]
+  * [[sonysw3|Smartwatch 3]]

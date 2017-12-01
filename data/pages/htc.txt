@@ -1,0 +1,43 @@
+====== HTC Devices ======
+\\ 
+[[start|Back]]\\ 
+
+===== Phones =====
+
+==== Pre 2013 devices ====
+
+  * [[htcdream|HTC G1 Dream]]
+  * [[htcsaga|Desire Saga]]
+  * [[htcbravo|Desire S]]
+  * [[htcdesirez|Desire Z G2]]
+  * [[htcmagic|HTC Magic]]
+  * [[htcace|Desire HD Ace]]
+
+==== 2013 to 2016 series ====
+
+  * [[htcm4|M4 HTC One Mini]]
+  * [[htcm7|M7]]
+  * [[htcm8|M8]]
+  * [[htcm8mini|M8 Mini (MEM_UL)]]
+  * [[htcm8s|M8S (M8_QL)]]
+  * [[desire300|Desire 300]]
+  * [[desire310|Desire 310]]
+  * [[desire320|Desire 320]]
+  * [[desire600|Desire 600]]
+  * [[desire610|Desire 610]]
+  * [[desire620|Desire 620]]
+  * [[desire800|Desire 800]]
+  * [[desire810|Desire 810]]
+  * [[desire820|Desire 820]]
+
+==== 2016 and onwards ====
+
+  * [[htcm9|M9]]
+  * [[htca9|A9]]
+  * [[htc10|HTC 10]]
+  * [[htcultra|HTC Ultra]]
+  * [[htc11|HTC 11]]
+
+===== Tablets =====
+ 
+  * [[flyer|HTC Flyer]]\\ 

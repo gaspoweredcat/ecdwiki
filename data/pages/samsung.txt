@@ -1,0 +1,14 @@
+====== Samsung ======
+
+  * [[start|Back]]
+  * [[samgtb|GT-Bxxxx]]
+  * [[samgti|GT-Ixxxx]]
+  * [[samgtn|GT-Nxxxx]]
+  * [[samgtp|GT-Pxxxx]]
+  * [[samgts|GT-Sxxxx]]
+  * [[samsma|SM-Axxx]]
+  * [[samsmg|SM-Gxxx]]
+  * [[samsmj|SM-Jxxx]]
+  * [[samsmn|SM-Nxxx]]
+  * [[samsmr|SM-Rxxx]]
+  * [[samsmt|SM-Txxx]]
