@@ -4,7 +4,7 @@
 \\
 ===== Unlock: =====
 \\ 
-Unlock devices with either Z3X or Chimera tool\\ 
+Unlock devices with either [[z3x|Z3X]] or [[chimera|Chimera tool]]\\ 
 \\ 
 This device must be flashed with COMBINATION firmware to unlock\\ 
 Combination packages can be found in D:/Samsung/Combination_Files/G928/ 

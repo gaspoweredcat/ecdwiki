@@ -4,7 +4,7 @@
 \\
 ===== Unlock: =====
 \\ 
-Unlock device via Z3X or Chimera tool\\ 
+Unlock device via [[z3x|Z3X]] or [[chimera|Chimera tool]]\\  
 \\ 
 You may need to enable diagnostic mode to unlock this device\\ 
 Boot the device into recovery mode by holding Volume Up, Home and Power\\ 
