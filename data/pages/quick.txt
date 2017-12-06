@@ -26,3 +26,7 @@ Enterprise and IT policy can be removed on these devices however not all devices
 **BB10**
 
 Most devices running Blackberry 10 software can have enterprise removed by way of flashing developer software, the only exceptions to this are if a unit has been updated to a software version higher than the available developer autoloaders however this is rare
+
+===== Apple =====
+
+We CANNOT sim unlock any iPhone or iPad inhouse nor can we reliably remove iCloud locks. Apple devices can only be reflashed with official versions which are currently signed by Apple
