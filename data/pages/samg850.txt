@@ -2,6 +2,10 @@
 \\ 
 [[samsmg|Back]]
 \\
+===== Important Note =====
+\\ 
+__Please do not attempt any process on this device before consulting the software team as most operations carry a very high brick risk__
+
 ===== Unlock: =====
 \\ 
 Unlock devices with either [[z3x|Z3X]] or [[chimera|Chimera tool]]\\ 

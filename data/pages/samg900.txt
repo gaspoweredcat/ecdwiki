@@ -6,7 +6,7 @@
 \\ 
 Unlock devices with either [[z3x|Z3X]] or [[chimera|Chimera tool]]\\  
 \\ 
-This device must be flashed with COMBINATION firmware to unlock\\ 
+This device must be flashed with [[whatiscomb|COMBINATION]] firmware to unlock\\ 
 Combination packages can be found in D:/Samsung/Combination_Files/ 
 \\ 
 
@@ -27,9 +27,9 @@ NOTE: While engineering modem is flashed it is common for the device to display 
   - Select G900F from the model selection menu
   - Select the Unlock tab at the top of the window
   - Boot the phone and skip through all startup menus
-  - Open the Factory IME app and enter *#0808#
+  - Open the Factory IME app and enter *#0808# [[combdiag|Video]]
   - Select DM+MODEM+ADB and connect phone to PC
-  - In the Port section at the top of the window select Samsung Modem port
+  - In the Port section at the top of the window select Samsung Modem port [[g9xxunlockz3x|Video]]
   - Press the unlock button (if the process fails try again)
   - Once unlocked Flash device with full firmware to restore original modem
 
