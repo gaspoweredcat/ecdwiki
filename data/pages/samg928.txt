@@ -9,6 +9,29 @@ Unlock devices with either [[z3x|Z3X]] or [[chimera|Chimera tool]]\\
 This device must be flashed with COMBINATION firmware to unlock\\ 
 Combination packages can be found in D:/Samsung/Combination_Files/G928/ 
 \\ 
+
+To flash combination file:
+\\ 
+  - Boot device in download mode by holding Vol- Home & Power\\ 
+  - Connect device to PC via USB
+  - Open Odin and select the AP box
+  - Select D:/Samsung/Combination_Files/COMBINATION_FA51_G928FXXU2AOL2_CL5994902_QB7519622_REV00_user_mid_noship.tar
+  - Press Start to flash
+
+\\ 
+To Unlock:
+\\ 
+  - Open VHUI.exe and connect to Z3X box 
+  - Open Z3X SamsungTool Pro from Start Menu
+  - Select G928F from the model selection menu
+  - Select the Unlock tab at the top of the window
+  - Boot the phone and skip through all startup menus
+  - Open the dialler and enter *#0808#
+  - Select DM+MODEM+ADB and connect phone to PC
+  - In the Port section at the top of the window select Samsung Modem port
+  - Press the unlock button (if the process fails try again)
+  - Once unlocked Flash device with full firmware
+
 ===== Debrand: =====
 \\ 
 To debrand device simply flash with clean BTU (generic UK) flash file via Odin\\ 

@@ -264,3 +264,6 @@ warned
 detect
 sdcard
 prompt
+common
+noship
+medium
