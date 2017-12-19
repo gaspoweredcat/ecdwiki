@@ -1,7 +1,8 @@
 ====== HTC M9 ======
 \\ 
 [[htc|Back]]\\ 
-
+[[\\10.10.40.22\flashfiles\HTC\M9\|Device Folder: Z:/HTC/M9/]]
+\\ 
 ===== Unlocking =====
  
 This device is unlocked via [[xtc2clip|XTC2Clip]] hardware\\ 

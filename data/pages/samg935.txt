@@ -1,6 +1,7 @@
 ====== Galaxy S7 Edge G935F ======
 \\ 
-[[samsmg|Back]]
+[[samsmg|Back]]\\ 
+[[\\10.10.40.22\flashfiles\samsung\|Device Folder]]
 \\
 ===== Unlock: =====
 \\ 
@@ -31,9 +32,16 @@ NOTE: While engineering modem is flashed it is common for the device to display 
   - Press the unlock button (if the process fails try again)
   - Once unlocked Flash device with full firmware to restore original modem
 
-===== Debrand: =====
+===== Flash & Debrand: =====
 \\ 
-To debrand device simply flash with clean BTU (generic UK) flash file via Odin\\ 
+To flash and debrand device simply flash with clean BTU (generic UK) flash file via Odin\\ 
+
+  - Boot device into download mode by holding Volume Down, Home and Power buttons or use a [[sambootjig|boot jig]]
+  - Connect the device(s) to the PC with a micro USB cable
+  - Open the Odin Flash tool
+  - Select the flash file from the devices folder on the server. if only a single file is in the folder load it into the AP section, if there are 4 files open each in its respective slot 
+  - Press Start to begin flashing
+  - Once complete factory reset the device before repacking
 \\ 
 ===== Demo Remove: =====
 \\ 
@@ -44,5 +52,16 @@ To remove demo from device flash with 4 file engineering firmware package\\
 \\ 
 Reset FRP & Samsung account via Z3X box or Chimera tool UFS unlock\\ 
 \\ 
-This will require a USB to serial converter such as Z3X box and a samsung compatible UART cable eg C3300K/B3410W/S7070\\  
+This will require a USB to serial converter such as Z3X box and a Samsung compatible UART cable eg C3300K/B3410W/S7070, please ask the software team for these tools when you need them\\ 
+{{::c3300k-cable.jpg?200|}} {{ ::z3xbox.jpg?200|}} 
 \\ 
+==== Z3X Procedure ====
+[[Video|ufsfrp]]
+  - Boot device into download mode by holding Volume Down, Home and Power buttons or use a [[sambootjig|boot jig]]
+  - Connect the USB serial converter box to your PC
+  - Connect the RJ45 of the UART cable to your serial converter
+  - Connect the phone to the UART cable
+  - Select the COM port of your USB serial converter in the COM box at the top of the window
+  - Press Reset FRP UFS
+  - Hold Volume Down and power until instructed to release them
+  - The software will detect the device as it restarts and remove the reactivation locks

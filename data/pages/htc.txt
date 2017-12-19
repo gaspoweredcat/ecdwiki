@@ -2,6 +2,12 @@
 \\ 
 [[start|Back]]\\ 
 
+===== Model Numbers =====
+
+Due to the HUGE range of model numbers for HTC devices which are often unconnected to the devices name (eg the HTC 10 is called the PERFUME) You can fund a full list of models and their names here
+
+[[htcmodlist|Full List of model numbers to names]]
+
 ===== Phones =====
 
 ==== Pre 2013 devices ====
@@ -14,6 +20,14 @@
   * [[htcace|Desire HD Ace]]
 
 ==== 2013 to 2016 series ====
+
+=== Generic Page ===
+
+Most Gen 2 HTC devices are almost identical in their operations as such you can follow the simple instructions in the link below, you will only need to view specific model pages if you need any extra information
+
+[[htcgen2ops|HTC Gen 2 Generic Operations]]
+
+=== Devices ===
 
   * [[htcm4|M4 HTC One Mini]]
   * [[htcm7|M7]]

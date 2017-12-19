@@ -1,7 +1,7 @@
 ====== M8 Mini MEM_UL ======
 \\ 
 [[htc|Back]]\\ 
-
+[[\\10.10.40.22\flashfiles\HTC\M8_MINI_MEM\|Device Folder: Z:/HTC/M8_MINI_MEM/]]
 ===== Unlocking =====
 \\ 
 This device is unlocked via [[xtc2clip|XTC2Clip]] hardware\\ 

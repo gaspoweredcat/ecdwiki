@@ -1,6 +1,6 @@
 ====== Blackberry OS4.x-7.x Devices ======
 \\ 
-[oldbb|Back]\\ 
+[[blackberry|Back]]\\ 
 \\ 
 ===== Unlocking =====
 \\ 

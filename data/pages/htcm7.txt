@@ -1,6 +1,7 @@
 ====== HTC One M7 ======
 \\ 
 [[htc|Back]]\\ 
+[[\\10.10.40.22\flashfiles\HTC\M7\|Device Folder: Z:/HTC/M7/]]
 
 ===== Unlocking =====
 \\ 

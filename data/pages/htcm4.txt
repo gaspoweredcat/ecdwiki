@@ -1,6 +1,7 @@
 ====== HTC One Mini M4 ======
 \\ 
 [[htc|Back]]\\ 
+[[\\10.10.40.22\flashfiles\HTC\M4|Device Folder: Z:/HTC/M4]]
 
 ===== Unlocking =====
 \\ 
@@ -31,3 +32,13 @@ This device is unlocked via [[xtc2clip|XTC2Clip]] hardware\\
   - Boot the device into bootloader by holding Volume down & power
   - Scroll down to FACTORY RESET and select it with Power
   - FRP has now been removed from the device 
+
+===== Known Issues =====
+
+This device has a manufacturing error, in some cases the devices memory is damaged and cannot be reloaded, it cannot be repaired via software. 
+
+Symptoms:
+
+Device boots directly to hboot (bootloader)
+Selecting recovery from the menu just reboots device back to hboot (bootloader)
+Device does not enter flash mode (RUU)
